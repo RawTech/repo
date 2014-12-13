@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.spigot</groupId>
+  <groupId>com.spigotmc</groupId>
   <artifactId>spigot</artifactId>
   <versioning>
     <release>1.8-R0.1-SNAPSHOT</release>
