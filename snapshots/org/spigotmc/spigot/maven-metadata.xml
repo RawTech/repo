@@ -3,9 +3,9 @@
   <groupId>com.spigotmc</groupId>
   <artifactId>spigot</artifactId>
   <versioning>
-    <release>1.8-R0.1-SNAPSHOT</release>
+    <release>LATEST</release>
     <versions>
-      <version>1.8-R0.1-SNAPSHOT</version>
+      <version>LATEST</version>
     </versions>
 <lastUpdated>20150208033334</lastUpdated>
   </versioning>
